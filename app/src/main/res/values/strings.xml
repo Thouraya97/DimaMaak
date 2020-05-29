@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MobiUP</string>
+    <string name="hint">Example explaining how to scheduling repeating alarms in android using AlarmManager.</string>
+    <string name="title">Mobi_up</string>
+</resources>
